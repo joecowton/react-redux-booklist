@@ -1,8 +1,8 @@
 export default function () {
   return [
-    {title: 'Hello'},
-    {title: 'Yep'},
-    {title: 'Brilliant'},
-    {title: 'Whooo'}
+    {title: 'Hello', pages: 101},
+    {title: 'Yep', pages: 39},
+    {title: 'Brilliant', pages: 4},
+    {title: 'Whooo', pages: 7}
   ]
 }
